@@ -1,16 +1,9 @@
 # startup_namer
 
-A new Flutter project.
+Google codelab flutter exercise
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+It generates Random Startup Names
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![startup name generator](https://user-images.githubusercontent.com/77614066/105353158-e7068e80-5c14-11eb-84e2-44fb9f35fe88.gif)
